@@ -11,8 +11,8 @@
 
 **Why TelcoGPT is necessary?**
 
-To effectively manage 5G networks and its underlay cloud infrastructure you need to be fluent in tons of technologies. Starting from infra management, (e.g. ClusterAPI, Terraform, kubeadm), through 5G Network deployment (kpt, helm -> nephio) and observability (*OpenTelemetry*) compleet on continuum life-cycle management and cloosed loops (kubernetes). 
-All of these tools ( provided list is not finalized and new technologies still appears!) requires knowledge of CLIs, rules, good-practices and so on.
+```To effectively manage 5G networks and its underlay cloud infrastructure you need to be fluent in tons of technologies. Starting from infra management, (e.g. ClusterAPI, Terraform, kubeadm), through 5G Network deployment (kpt, helm -> nephio) and observability (*OpenTelemetry*) compleet on continuum life-cycle management and cloosed loops (kubernetes). 
+All of these tools ( provided list is not finalized and new technologies still appears!) requires knowledge of CLIs, rules, good-practices and so on.```
 
 ** How does TelcoGPT works **
 TelcoGPT offers high-level user interface in the form of human-level intents for all mentioned technologies. 
