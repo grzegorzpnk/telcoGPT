@@ -9,7 +9,7 @@
 
 TelcoGPT is a system designed to simplify comprehensively orchestrate and manage mobile networks on a cloud infrastructure.
 
-**Why TelcoGPT is necessary? **
+**Why TelcoGPT is necessary?**
 
 To effectively manage 5G networks and its underlay cloud infrastructure you need to be fluent in tons of technologies. Starting from infra management, (e.g. ClusterAPI, Terraform, kubeadm), through 5G Network deployment (kpt, helm -> nephio) and observability (*OpenTelemetry*) compleet on continuum life-cycle management and cloosed loops (kubernetes). 
 All of these tools ( provided list is not finalized and new technologies still appears!) requires knowledge of CLIs, rules, good-practices and so on.
