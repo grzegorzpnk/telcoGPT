@@ -3,6 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+---
 # TelcoGPT
 
 **1. What a project is about**
