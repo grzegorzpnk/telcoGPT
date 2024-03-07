@@ -5,28 +5,36 @@
 
 # TelcoGPT
 
-**Problem to be solved using this project**
+**What a project is about**
 
 TelcoGPT is a system designed to simplify comprehensively orchestrate and manage mobile networks on a cloud infrastructure.
 
-**Why it is challanging today?**
+** Why TelcoGPT is necessary? **
 
 To effectively manage 5G networks and its underlay cloud infrastructure you need to be fluent in tons of technologies. Starting from infra management, (e.g. ClusterAPI, Terraform, kubeadm), through 5G Network deployment (kpt, helm -> nephio) and observability (*OpenTelemetry*) compleet on continuum life-cycle management and cloosed loops (kubernetes). 
 All of these tools ( provided list is not finalized and new technologies still appears!) requires knowledge of CLIs, rules, good-practices and so on.
 
-**What is the challange?**
+** How does TelcoGPT works **
+TelcoGPT offers high-level user interface in the form of human-level intents for all mentioned technologies. 
 
-TelcoGPT offers high-level user interface in the form of human-level intents for all mentioned technologies. Please specify your intent( simple text format) and let LLM to interprete it 
+Prerequestie: customize LLM to support your infra / network (e.g. IP zones, specific conditions)
 
-**How to achieve?**
+1. Specify your intent (simple text format)
+2. Let LLM to interprete it (and negotiate)
+3. Confirm and validate LLM understanding
+4. LLM will call external API of tool based on user context request
+5. LLM is working synchronously, so let's wait until task is completed and receive confirmation
 
-TelcoGPT relies on LLMs such as GPT, LLama, Falcon that seems to be not only good content creators, but as well interpreter of human intents.
+** How to achieve? **
 
-**What is gained?**
+TelcoGPT may relies on LLMs such as GPT, LLama, Falcon that seems to be not only good content creators, but as well interpreter of human intents.
+LLMs share possibility of executing external tools' API: [[Function Calling](https://platform.openai.com/docs/guides/function-calling)]
 
-TelcoGPT provides transparency layer between OSS intents/bussines persons/administrator ane underlying technologies to manage 5G. 
+** What is gained? **
+
+TelcoGPT provides transparent layer between OSS intents/bussines persons/administrator and underlying technologies to manage 5G network. 
 Once customized LLM allow to manage your network (or hundrets of different private network) for non-technical persons.
-Even if new technology will appear, no need to administrator to learn it, it will be hidden in technological part.
+Even if new technology will appear, no need for administrator to learn it, it will be hidden in technological part.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
