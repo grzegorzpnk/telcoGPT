@@ -3,7 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 # TelcoGPT
 
 **Problem to be solved using this project**
@@ -66,7 +65,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Grzegorz Panek - grzegorzpnk@gmail.com
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/grzegorzpnk/telcoGPT/)]
+Project Link: [[https://github.com/grzegorzpnk/telcoGPT](https://github.com/grzegorzpnk/telcoGPT/)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
