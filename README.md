@@ -1,7 +1,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+****About The Project****
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # TelcoGPT
