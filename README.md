@@ -3,7 +3,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
----
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # TelcoGPT
 
 **1. What a project is about**
