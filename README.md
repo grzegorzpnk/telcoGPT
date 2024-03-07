@@ -7,7 +7,7 @@
 
 **What a project is about**
 
-TelcoGPT is a system designed to simplify comprehensively orchestrate and manage mobile networks on a cloud infrastructure.
+{ TelcoGPT is a system designed to simplify comprehensively orchestrate and manage mobile networks on a cloud infrastructure. }
 
 **Why TelcoGPT is necessary?**
 
