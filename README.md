@@ -1,6 +1,7 @@
 
 # TelcoGPT
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 **1. What a project is about**
 
 ```
